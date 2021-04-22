@@ -9,3 +9,5 @@ else
     fibonacciNumber = fiboRecursive(n - 2) + fiboRecursive(n - 1);
 end
 end
+
+%This comment is for the first Merge conflict example
